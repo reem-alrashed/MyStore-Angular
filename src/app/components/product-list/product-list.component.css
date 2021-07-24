@@ -5,8 +5,25 @@
   max-width: 1024px;
   margin-bottom: 64px;
 }
-
 .product-container {
   display: flex;
   justify-content: center;
+  margin: 2px;
 }
+.product-image {      
+  list-style-type: none;
+  width: 290px;
+  height: 320px; 
+  padding: 20px;
+  margin: 12px;        
+  border: 2px solid #aae1f5;
+} 
+.product-detail{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 1024px;
+  width: 100px;
+  margin-bottom: 10px;
+}
+
