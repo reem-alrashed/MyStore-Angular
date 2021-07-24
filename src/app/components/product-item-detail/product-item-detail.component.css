@@ -19,7 +19,17 @@ img {
   margin-left: 128px;
   margin-right: 128px;
 }
-
+.product-item-detail{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  max-width: 1024px;
+  margin-bottom: 10px;
+}
+.product-title{
+    font-size: 30px!important;
+}
 .back-link {
   margin-top: 8px;
 }
+
