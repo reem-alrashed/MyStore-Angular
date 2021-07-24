@@ -1,5 +1,5 @@
 # UdacityMyStore
-MyStore is a SPA built using Angular. It presents an online stoe that displays a list of products which can be added to a cart then checkout.
+MyStore is a SPA built using Angular. It presents an online store that displays a list of products which can be added to a cart then checkout.
 
 ## Supported functionality
 
