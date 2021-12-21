@@ -21,7 +21,7 @@ Run `ng serve` for a dev server. The application will be available via port 4200
 <img width="1092" alt="Screen Shot 2021-07-24 at 3 30 44 AM" src="https://user-images.githubusercontent.com/68843028/126852289-d7aeec68-013d-48cb-a45b-d0945defce80.png">
 
 
-Screenshot:
+## Screenshot
 
 <img width="1440" alt="Screen Shot 2021-07-24 at 3 29 30 AM" src="https://user-images.githubusercontent.com/68843028/126852295-0209ba21-c60b-45a5-b511-f9a1587c8029.png">
 
